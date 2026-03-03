@@ -37,9 +37,10 @@ users with the set-up of their first VM and their first steps in this vibrant op
 
        1. The only manual work that we are doing here is the following:
        - In the ISO space we are going to put our downloaded iso (from now on this will be our distro).
-       - The setting may change depending of your computer specifications but at least 1-2 CPUs and 4GB of RAM (this can get clacky as you generate new directories and folders but should be enough for beginners).
+       - The setting may change depending of your computer specifications but at least 1-2 CPUs and 4GB of RAM (this can get clancky as you generate new directories and folders but should be enough for beginners).
        - With this done, and unchecking the EFI space, the rest can go on auto.
 
-    3. Launch the VM one the configuration ends, if the installation went smoothly you should see the logo of the distro.
+    3. Launch the VM once the configuration ends, if the installation went smoothly you should see the distro logo.
 
     4. Congrats! You can now run Linux in your Windows or Mac. Feel free to touch, break, and set the things up again. This is the only true way of learning!.
+    ![Distro](Images/distro.png)
