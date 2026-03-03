@@ -1,4 +1,4 @@
-# Linux in a VM
+# Linux in a VM :penguin:
 
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
@@ -7,8 +7,7 @@
 This MarkDown document has the sole purpose of helping new
 users with the set-up of their first VM and their first steps in this vibrant open-source community.
 
-## Prerequisites
-
+## :wrench: Prerequisites 
 - **Oracle Virtual-Box**: There are plenty of VM out there, if you feel more comfortable with other type of VM fell free to use it.
   - *For the sake of the guide all the explanations will be Oracle focused*.
   
@@ -19,9 +18,9 @@ users with the set-up of their first VM and their first steps in this vibrant op
   
   *Note: My specifications are: 2 CPUs and 4GB of RAM, even with this it lags sometimes*
 
-## Set Up Guide
+## :feet: Set Up Guide
 
-### Installation and configuration
+### :mag_right: Installation and configuration
 
 **Download Virtual-Box**: This step is one of the easiest one, we only need to open our browser and search for Oracle VirtualBox. This being done, we are going to download the version that matches our OS (a x64 version is preferable) and we can proceed with the installation.
 
